@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu{
+    background-color: darkblue;
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+}
+
+#minicontainer2{
+    width: 75%;
+    height: 15vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#minicontainer{
+    width: 25%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo{
+    width: 450px;
+}
+
+.letra{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+#container{
+    width: 95%;
+    height: 70vh;
+    margin: 2.5%;
+}
+
+#minicontainer3{
+    width: 100%;
+    height: 35vh;
+    display: flex;
+    align-items: center;
+}
+
+#minicontainer4{
+    width: 100%;
+    height: 35vh;
+    display: flex;
+    align-items: center;
+}
+
+#minicontainer5{
+    width: 15.5%;
+    height: 75.5%;
+    margin-left: 155px;
+}
+
+#minicontainer6{
+    width: 15.5%;
+    height: 75.5%;
+    margin-left: 245px;
+}
+
+#minicontainer7{
+    width: 15.5%;
+    height: 75.5%;
+    margin-left: 225px;
+}
+
+#minicontainer8{
+    width: 15.5%;
+    height: 75.5%;
+    margin-left: 155px;
+}
+
+#minicontainer9{
+    width: 15.5%;
+    height: 75.5%;
+    margin-left: 245px;
+}
+
+#minicontainer10{
+    width: 15.5%;
+    height: 75.5%;
+    margin-left: 225px;
+}
+
+#img1{
+    width: 95px;
+    height: 95px;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+#img2{
+    width: 95px;
+    height: 95px;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+#img3{
+    width: 95px;
+    height: 95px;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+#img4{
+    width: 95px;
+    height: 95px;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+#img5{
+    width: 125px;
+    height: 95px;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+
+#img6{
+    width: 85px;
+    height: 95px;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+.letra2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cuphead{
+    margin-left: 75px;
+}
+
+#astro{
+    margin-left: 45px;
+}
+
+#meatboy{
+    margin-left: 55px;
+}
+
+#hotwheels{
+    margin-left: 75px;
+}
+
+#sackboy{
+    margin-left: 75px;
+}
+
+#sackboy2{
+    margin-left: 75px;
+    margin-top: 15px;
+}
